@@ -17,5 +17,14 @@ giorno:<c:out value="${day}"></c:out>
 nome:<c:out value="${month}"></c:out>
 <br>
 nome:<c:out value="${year}"></c:out>
+<br>
+region:<c:out value="${region}"></c:out>
+<br>
+
+provincia:<c:out value="${province}"></c:out>
+<br>
+country:<c:out value="${country}"></c:out>
+<br>
+sex:<c:out value="${sex}"></c:out>
 </body>
 </html>
